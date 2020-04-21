@@ -1,7 +1,7 @@
 # Site settings
 title: G.R.I.T #KIMI Blog
 SEOTitle: 启杰的网站 | KIMI Blog
-header-img: /img/post-bg-desk.jpg
+header-img: /img/post-bg-rwd.jpg #/img/post-bg-desk.jpg
 email: liqijie_kimi@outlook.com
 description: "Every failure is leading towards success." #"GUTS. RESILIENCE. INITIATIVE. TENACITY" #"There is a will, there is a way!" # 
 keyword: "CFD, Gas-turbine, Fluid Mechanics, Machine Learning" #"BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/qijieli/qijieli.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "There is a will, there is a way!" #"Goals determine what you going to be!"
-sidebar-avatar: /img/avatar-m.jpg #about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_m.jpg #about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
