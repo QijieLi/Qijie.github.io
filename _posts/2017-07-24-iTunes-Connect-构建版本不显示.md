@@ -7,8 +7,8 @@ author:     BY
 header-img: img/post-bg-ios10.jpg
 catalog: true
 tags:
-    - iOS
-    - Xcode
+    - #iOS
+    - #Xcode
 ---
 
 
