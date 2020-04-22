@@ -8,6 +8,12 @@ header-img:  img/post-GS01.jpg
 catalog:     true
 tags:
     - Teaching
+    - CFD
+    - Mechanical Engineering
+    - Gas Turbine
+    - Marine Engineering
+    - Machine Learning
+    - Deep Learning
 ---
 
 ## Hey, welcome to Qijie's Teaching Blog!
